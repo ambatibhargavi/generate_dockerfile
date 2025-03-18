@@ -106,6 +106,9 @@ Replace this in `generate_dockerfile.py`:
 ```python
 response = ollama.chat(model='llama3.2:1b', messages=[{'role': 'user', 'content': PROMPT.format(language=language)}])
 ```
+![Screenshot 2025-03-18 at 22 05 20](https://github.com/user-attachments/assets/3ed8e106-14b3-4118-a79a-d2751063b158)
+![Screenshot 2025-03-18 at 22 03 53](https://github.com/user-attachments/assets/1ebbe9c0-0572-4b9a-8da1-005ffadea73c)
+![Screenshot 2025-03-18 at 22 03 34](https://github.com/user-attachments/assets/5430d0d2-997b-48b5-bfb8-f96fb46d9fb9)
 
 ---
 
